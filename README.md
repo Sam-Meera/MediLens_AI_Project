@@ -70,21 +70,43 @@ streamlit run app/app.py
 
 ![Prediction](screenshots/prediction.png)
 ## Model Performance
+## Model Performance
 
-### Diabetes Prediction
+The MediLens AI system uses multiple Machine Learning and Deep Learning models for healthcare prediction.
+
+### Machine Learning Models
+
+| Model | Accuracy | F1 Score |
+|---|---|---|
+| Logistic Regression | 75.32% | 66.07% |
+| Random Forest | 72.73% | 61.82% |
+
+### Deep Learning Model
 
 | Model | Accuracy |
 |---|---|
-| Logistic Regression | Add your accuracy |
-| Random Forest | Add your accuracy |
+| CNN | 89.26% |
 
-
-### Chest X-ray Classification
+### Transfer Learning Model
 
 | Model | Accuracy |
 |---|---|
-| CNN | Add your accuracy |
-| MobileNet | Add your accuracy |
+| MobileNet | 87.98% |
+
+### Evaluation Metrics
+
+The models were evaluated using:
+
+- Accuracy
+- Precision
+- Recall
+- F1 Score
+
+Machine Learning Model Results:
+
+- Precision: 64.91%
+- Recall: 67.27%
+- F1 Score: 66.07%
 
 ## Author
 
