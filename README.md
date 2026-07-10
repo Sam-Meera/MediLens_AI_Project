@@ -116,7 +116,15 @@ Try MediLens AI here:
 
 https://medilensaiprojectgita720329faf7ad5main-main-4fkevgufcfra6vpdm8.streamlit.app/
 
+## Screenshots
 
+### Application Interface
+
+![Application](screenshots/app.png)
+
+### Prediction Result
+
+![Prediction](screenshots/prediction.png)
 
 ## Author
 
