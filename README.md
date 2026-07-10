@@ -155,6 +155,41 @@ Comparison of different AI models used in MediLens AI:
 
 ```bash
 git clone https://github.com/Sam-Meera/MediLens_AI_Project.git
+## Project Workflow
+
+### 1. Data Collection
+- Diabetes dataset for risk prediction
+- Chest X-ray dataset for disease classification
+
+### 2. Data Preprocessing
+- Data cleaning
+- Handling missing values
+- Feature selection
+- Image preprocessing
+
+### 3. Model Development
+
+Machine Learning Models:
+- Logistic Regression
+- Random Forest
+
+Deep Learning Models:
+- CNN
+- MobileNet Transfer Learning
+
+### 4. Model Evaluation
+
+Models are evaluated using:
+- Accuracy
+- Precision
+- Recall
+- F1 Score
+
+### 5. Deployment
+
+- Streamlit web application
+- User input interface
+- Real-time prediction results
 
 ## Author
 
