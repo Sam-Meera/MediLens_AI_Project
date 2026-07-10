@@ -130,6 +130,9 @@ https://medilensaiprojectgita720329faf7ad5main-main-4fkevgufcfra6vpdm8.streamlit
 
 ![Prediction](screenshots/prediction.png)
 
+## Architecture
+
+![Architecture](screenshots/architecture.png)
 ## Author
 
 Sameeraja
