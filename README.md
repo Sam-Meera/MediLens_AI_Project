@@ -110,6 +110,13 @@ Machine Learning Model Results:
 - Precision: 64.91%
 - Recall: 67.27%
 - F1 Score: 66.07%
+## Live Demo
+
+Try MediLens AI here:
+
+https://medilensaiprojectgita720329faf7ad5main-main-4fkevgufcfra6vpdm8.streamlit.app/
+
+
 
 ## Author
 
