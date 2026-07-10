@@ -133,6 +133,11 @@ https://medilensaiprojectgita720329faf7ad5main-main-4fkevgufcfra6vpdm8.streamlit
 ## Architecture
 
 ![Architecture](screenshots/architecture.png)
+## Model Performance
+
+Comparison of different AI models used in MediLens AI:
+
+![Model Performance](screenshots/model-performance.png)
 ## Author
 
 Sameeraja
