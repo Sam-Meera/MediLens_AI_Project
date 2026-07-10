@@ -138,6 +138,14 @@ https://medilensaiprojectgita720329faf7ad5main-main-4fkevgufcfra6vpdm8.streamlit
 Comparison of different AI models used in MediLens AI:
 
 ![Model Performance](screenshots/model-performance.png)
+## Future Enhancements
+
+- Add chest X-ray disease classification module
+- Integrate multiple healthcare AI models into one dashboard
+- Add patient history tracking
+- Implement explainable AI visualization
+- Deploy using cloud-based AI infrastructure
+- Add user authentication and secure medical data storage
 ## Author
 
 Sameeraja
