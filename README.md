@@ -191,6 +191,10 @@ Models are evaluated using:
 - User input interface
 - Real-time prediction results
 
+## Reports
+https://ap.wps.com/cms/docs/d/
+[Download Model Report](reports/MediLens_AI_Model_Report.pdf)
+
 ## Author
 
 Sameeraja
