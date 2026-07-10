@@ -146,6 +146,9 @@ Comparison of different AI models used in MediLens AI:
 - Implement explainable AI visualization
 - Deploy using cloud-based AI infrastructure
 - Add user authentication and secure medical data storage
+## Demo
+
+![MediLens AI Demo](screenshots/demo.gif)
 ## Author
 
 Sameeraja
