@@ -60,6 +60,15 @@ pip install -r requirements.txt
 
 ## Run Application
 streamlit run app/app.py
+## Screenshots
+
+### Application Interface
+
+![Application](screenshots/app.png)
+
+### Prediction Result
+
+![Prediction](screenshots/prediction.png)
 
 ## Author
 
