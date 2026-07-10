@@ -149,6 +149,13 @@ Comparison of different AI models used in MediLens AI:
 ## Demo
 
 ![MediLens AI Demo](screenshots/demo.gif)
+## Installation & Usage
+
+### Clone the repository
+
+```bash
+git clone https://github.com/Sam-Meera/MediLens_AI_Project.git
+
 ## Author
 
 Sameeraja
