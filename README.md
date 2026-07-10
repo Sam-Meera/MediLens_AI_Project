@@ -69,6 +69,22 @@ streamlit run app/app.py
 ### Prediction Result
 
 ![Prediction](screenshots/prediction.png)
+## Model Performance
+
+### Diabetes Prediction
+
+| Model | Accuracy |
+|---|---|
+| Logistic Regression | Add your accuracy |
+| Random Forest | Add your accuracy |
+
+
+### Chest X-ray Classification
+
+| Model | Accuracy |
+|---|---|
+| CNN | Add your accuracy |
+| MobileNet | Add your accuracy |
 
 ## Author
 
