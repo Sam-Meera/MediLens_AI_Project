@@ -1,0 +1,12 @@
+gitdata/chest_xray/
+venv/
+venv311/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+
+# Ignore datasets
+data/chest_xray/
+data/chest_xray.zip
+data/*.zip
